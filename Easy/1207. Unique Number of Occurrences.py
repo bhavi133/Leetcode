@@ -2,6 +2,8 @@ Link : https://leetcode.com/problems/unique-number-of-occurrences/
 
 Code :
 
+import collections
+    
 def uniqueOccurrences(self, arr: List[int]) -> bool:
     # dic = {}
     # l = []
